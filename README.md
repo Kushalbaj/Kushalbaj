@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hey there! I'm [Your Name], an enthusiastic beginner on the journey to becoming a full-stack developer. This GitHub repository showcases my projects, learning progress, and coding adventures. 
+Hey there! I'm Kushal Bajracharya, an enthusiastic beginner on the journey to becoming a full-stack developer. This GitHub repository showcases my projects, learning progress, and coding adventures. 
 
 ## About Me
 
