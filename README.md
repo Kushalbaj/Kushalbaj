@@ -1,19 +1,12 @@
-# Welcome to My GitHub Profile!
+# Hey there!
 
-Hey there! I'm Kushal Bajracharya, an enthusiastic beginner on the journey to becoming a full-stack developer. This GitHub repository showcases my projects, learning progress, and coding adventures. 
+🌱 Coding from Nepal with passion and curiosity.
 
-## About Me
+## 📬 Let's Connect
 
-- 🌱 Currently learning: HTML, CSS, JavaScript, and more!
-- 💡 Interested in Full-stack development, web technologies, and problem-solving.
-- 📫 How to reach me: bajrakus20@gmail.com
+- GitHub: [@Kushalbaj](https://github.com/Kushalbaj)
+- Twitter: [@Kushalbaj](https://twitter.com/Kushalbaj)
+- LinkedIn: [Kushal Bajracharya](https://www.linkedin.com/in/kushal-bajracharya-a5293a211/)
 
-## Connect with Me
 
-Let's learn and grow together! Connect with me on [Twitter](https://twitter.com/Kushalbaj). Feel free to say hi anytime!
 
-## Future Goals
-
-I'm excited to continue my learning journey and work on more challenging projects. My goal is to become a proficient full-stack developer and contribute to meaningful tech projects.
-
-Looking forward to what the coding world has in store! 🚀
