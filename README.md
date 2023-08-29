@@ -1,6 +1,6 @@
 # Hey there!👋 I'm Kushal
 
-🚀 Learning and coding from Nepal with passion and curiosity.
+🚀 Self-Learning and coding from Nepal.
 
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kushalbaj&show_icons=true&theme=dark&hide=stars)
 
