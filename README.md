@@ -31,51 +31,24 @@
 <!-- About Me and Skills -->
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://www.sanjayguwaju.com.np/](https://www.sanjayguwaju.com.np/)
-
 - 💬 Ask me about **HTML, CSS, Javascript, Node.js, React, Postgres, MongoDB, Git, etc.**
 
-- 📫 How to reach me **sanjayguwaju@gmail.com**
-
-- 📄 Know about my experiences [https://www.sanjayguwaju.com.np/](https://www.sanjayguwaju.com.np/)
-
-- ⚡ Fun fact **I have a good sense of humor && I am good at connecting with people.**
+- 📫 How to reach me **bajrakus20@gmail.com**
 
 <!-- Connect with Me Section -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a 
-    href="https://twitter.com/sanjayguwaju" 
+    href="https://twitter.com/Kushalbaj" 
     target="blank"><img align="center" 
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjayguwaju" 
+    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kushalbaj" 
     height="30" 0
     width="40" 
 /></a><a
-    href="https://linkedin.com/in/sanjayguwaju"
+    href="https://linkedin.com/in/kushalbaj"
     target="blank"><img align="center" 
     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-    alt="sanjayguwaju" 
-    height="30" 
-    width="40" 
-/></a><a 
-    href="https://codesandbox.com/sanjayguwaju" 
-    target="blank"><img align="center" 
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" 
-    alt="sanjayguwaju" 
-    height="30" 
-    width="40" 
-/></a><a 
-    href="https://fb.com/sanjayguwaju" 
-    target="blank"><img align="center" 
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
-    alt="sanjayguwaju" 
-    height="30" 
-    width="40" 
-/></a><a 
-    href="https://instagram.com/sanjayguwaju" 
-    target="blank"><img align="center" 
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-    alt="sanjayguwaju" 
+    alt="kushalbaj" 
     height="30" 
     width="40" 
 /></a>
