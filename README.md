@@ -21,7 +21,7 @@
 <p align="left"> 
     <a href="https://twitter.com/Kushalbaj" target="blank">
         <img 
-        src="https://img.shields.io/twitter/follow/sanjayguwaju?logo=twitter&style=for-the-badge" 
+        src="https://img.shields.io/twitter/follow/kushalbaj?logo=twitter&style=for-the-badge" 
         alt="kushalbaj"
         height="35"
          />
