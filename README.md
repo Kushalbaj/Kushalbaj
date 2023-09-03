@@ -19,10 +19,10 @@
 
 <!-- Twitter Badge -->
 <p align="left"> 
-    <a href="https://twitter.com/sanjayguwaju" target="blank">
+    <a href="https://twitter.com/Kushalbaj" target="blank">
         <img 
         src="https://img.shields.io/twitter/follow/sanjayguwaju?logo=twitter&style=for-the-badge" 
-        alt="sanjayguwaju"
+        alt="kushalbaj"
         height="35"
          />
     </a> 
