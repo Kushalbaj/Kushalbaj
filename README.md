@@ -3,7 +3,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://Kushalbaj.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Kushalbaj)
 
- I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into **Data Science** 🤖 and I also do some **Web Development** 🕸️.
+I'm a passionate learner aspiring to become a full-stack developer and always willing to learn new technologies.
 
 ### 👨‍💻 Talking about me:
 
@@ -28,5 +28,3 @@
     <img align="center" height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=Kushalbaj&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
   </a>
 </div>
-
-
