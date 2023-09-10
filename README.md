@@ -17,9 +17,6 @@ I'm a passionate learner aspiring to become a full-stack developer and always wi
 <a href="https://github.com/Kushalbaj">
   <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api?username=Kushalbaj&count_private=true&show_icons=true&theme=dark&hide=prs,issues&include_all_commits=true" />
 </a>
-<a href="https://github.com/Kushalbaj">
-  <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham-R&layout=compact&theme=dark&langs_count=6&exclude_repo=Deep-Learning-Specialization-Coursera,MachineLearning-StanfordOnline,CS50AI,kaggle,MLH-GHW-Video-Game&hide=html,Jupyter Notebook, makefile, css, makefile" />
-</a>
 </div>
 
 ### ☄️ Github Streaks:
