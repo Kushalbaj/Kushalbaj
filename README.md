@@ -3,7 +3,7 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.kushalbajracharya.com.np)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Kushalbaj)
 
-I'm a passionate learner aspiring to become a full-stack developer and always willing to learn new technologies.
+I'm a passionate learner aspiring to become a full-stack developer.
 
 ### 👨‍💻 Talking about me:
 
