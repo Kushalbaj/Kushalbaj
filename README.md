@@ -5,12 +5,6 @@
 
 I'm a passionate learner aspiring to become a full-stack developer.
 
-### 👨‍💻 Talking about me:
-
-- 🛠 I’m currently learning **MERN STACK**
-- 🔭 I’m currently working on a Blog Application
-- 📫 How to reach me: bajrakus20@gmail.com
-
 ### ⚡ GitHub Stats:
 
 <div align="center">
