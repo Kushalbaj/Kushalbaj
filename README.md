@@ -3,14 +3,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Kushalbaj)
 
 
-### ⚡ GitHub Stats:
-
-<div align="center">
-<a href="https://github.com/Kushalbaj">
-  <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api?username=Kushalbaj&count_private=true&show_icons=true&theme=dark&hide=prs,issues&include_all_commits=true" />
-</a>
-</div>
-
 ### ☄️ Github Streaks:
 <div align="center">
   <a href="https://github.com/Kushalbaj">
